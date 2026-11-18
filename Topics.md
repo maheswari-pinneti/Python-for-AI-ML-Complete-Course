@@ -1,4 +1,6 @@
-01 – Introduction to Python
+## Introduction to Python
+
+
 1. Introduction to Programming
 2. What is Python?
 3. History of Python
