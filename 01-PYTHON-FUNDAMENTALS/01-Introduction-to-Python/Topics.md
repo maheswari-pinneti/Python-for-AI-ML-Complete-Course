@@ -20,4 +20,4 @@
 18. Interview Questions – Basic to Advanced
 19. Practical Assignments and Homework
 20. Quick Revision – Remember Everything
-21. Teaching Strategy – How to Make Students Remember based on this give me topics - subtopics
+21. Teaching Strategy – How to Make Students Remember
